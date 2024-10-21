@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/Gabriel_Tirado_Ethics_Paper_CSCI235.pdf)
+### [Information Explosion, Ai, and Privacy](/pdf/Gabriel_Tirado_Ethics_Paper_CSCI235.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI-235 
+-   **Grade:** A
 
-### [Paper 2 Title](/pdf/Gabriel_Tirado_Ethics_Paper_CSCI301.pdf)
+### [Ethics of Copying Code](/pdf/Gabriel_Tirado_Ethics_Paper_CSCI301.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI-301
+-   **Grade:** A
 
-### [Paper 3 Title](/pdf/Gabriel_Tirado_Ethics_Paper_CSCI325.pdf)
+### [The Ethics of Artificial Intelligence](/pdf/Gabriel_Tirado_Ethics_Paper_CSCI325.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI-325
+-   **Grade:** A
 
 ---
 
