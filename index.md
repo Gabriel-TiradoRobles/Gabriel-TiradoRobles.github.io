@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/"Gabriel Tirado - Ethics Paper CSCI235".pdf)
+### [Paper 1 Title](/pdf/Gabriel_Tirado_Ethics_Paper_CSCI235.pdf)
 
 -   **Class:**  
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/Gabriel Tirado - Ethics Paper CSCI301.pdf)
+### [Paper 2 Title](/pdf/Gabriel_Tirado_Ethics_Paper_CSCI301.pdf)
 
 -   **Class:** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/Gabriel\ Tirado\ -\ Ethics\ Paper\ CSCI325.pdf)
+### [Paper 3 Title](/pdf/Gabriel_Tirado_Ethics_Paper_CSCI325.pdf)
 
 -   **Class:** 
 -   **Grade:**
