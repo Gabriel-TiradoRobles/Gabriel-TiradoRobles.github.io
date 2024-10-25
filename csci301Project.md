@@ -6,8 +6,8 @@ Job Web Scrapper
 -   **Class:** CSCI-301
 -   **Grade:** A
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Gabriel-TiradoRobles/CSCI-301-code-repository)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [CSCI-301-code-repository/finalProject](https://github.com/Gabriel-TiradoRobles/CSCI-301-code-repository/tree/main/finalProject)  
+    (Please [email me](mailto:gjtiradorobles@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -18,8 +18,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd ./finalProject
+python webscrappingProject.py
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
