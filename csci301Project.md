@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Job Web Scrapper
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Class:** CSCI-301
+-   **Grade:** A
+-   **Language(s):** Python
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/Gabriel-TiradoRobles/CSCI-301-code-repository)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
