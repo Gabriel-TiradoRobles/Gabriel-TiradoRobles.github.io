@@ -29,14 +29,16 @@ python webscrappingProject.py >> output.txt
 
 When the program is run without specifying an output file, the program will simply print the output to the command line (see Fig 1), when an output file is specified, the program will write down all output into the file (see Fig 2). If either there were no jobs found by the web scraper or the website given was invalid, the program will output stating that no jobs were found (see Fig 3).
 
+**Fig 1. Example output to command line after website was successfully scraped.**
 ![screenshot](images/CSCI301/outputCLIWebScraper.png)  
-Fig 1. Example output to command line after website was successfully scraped.
 
+
+**Fig 2. Example output to a file after website was successfully scraped.**
 ![screenshot](images/CSCI301/outputFileWebScraper.png)  
-Fig 2. Example output to a file after website was successfully scraped.
 
+
+**Fig 3. Feedback when no job results were found.**
 ![screenshot](images/CSCI301/errorWebScraper.png)  
-Fig 3. Feedback when no job results were found.
 
 ## 3. Additional Considerations
 
