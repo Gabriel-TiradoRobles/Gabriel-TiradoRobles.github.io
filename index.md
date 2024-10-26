@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:gjtiradorobles@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Job Web Scrapper | CSCI 301](csci301Project.md)
+### [Job Web Scraper | CSCI 301](csci301Project.md)
 
-![Job Web Scrapper Thumbnail](images/dummy_thumbnail.jpg)
+![Job Web Scraper Thumbnail](images/CSCI301/outputCLIWebScraper.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Inventory Management Project | CSCI 325](csci325Project.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
