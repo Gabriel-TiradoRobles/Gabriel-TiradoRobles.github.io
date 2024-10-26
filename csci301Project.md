@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Job Web Scrapper
+Job Web Scraper
 ===============
 
 -   **Class:** CSCI-301
@@ -11,37 +11,36 @@ Job Web Scrapper
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+When the program is launched through the command prompt, it will go through the html of the website that it is currently targetting. The specific details that the program will search for are job titles, the company responsible for the job posting, a link that leads you to more information about the given job and its application page, and any special tags that the job posting has (e.g., Full-time, High-paying). Once all of this information has been scraped from the website, the program will proceed to output all the information onto the command line or to a file of a given name if specified.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to run the program.
 
 ```bash
 cd ./finalProject
-python webscrappingProject.py
-```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+pip install requests
+pip install beautifulsoup4
+python webscrappingProject.py >> output.txt
+```
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+When the program is run without specifying an output file, the program will simply print the output to the command line (see Fig 1), when an output file is specified, the program will write down all output into the file (see Fig 2). If either there were no jobs found by the web scraper or the website given was invalid, the program will output stating that no jobs were found (see Fig 3).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/CSCI301/outputCLIWebScraper.png)  
+Fig 1. Example output to command line after website was successfully scraped.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/CSCI301/outputFileWebScraper.png)  
+Fig 2. Example output to a file after website was successfully scraped.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/CSCI301/errorWebScraper.png)  
+Fig 3. Feedback when no job results were found.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The two libraries listed in the **How to Compile** section must be installed before running the python script. To output to a file, you must add **>> fileName.txt** following the script name.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
