@@ -30,6 +30,7 @@ java -jar "InventoryManagmentSystem.jar"
 When the program is run, the user will begin in the main menu of the program (see Fig 1) and will be given the options to view or modify inventory, track shipments, generate reports, or quit the program. The various sections below will guide through the rest of the programs pages.
 
 **Fig 1. Program Main Menu.**
+
 ![screenshot](images/CSCI325/325MainMenu.png)  
 
 ### View Inventory
