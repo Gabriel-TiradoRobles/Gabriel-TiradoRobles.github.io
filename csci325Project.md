@@ -3,15 +3,17 @@
 Job Web Scraper
 ===============
 
--   **Class:** CSCI-301
+-   **Class:** CSCI-325
 -   **Grade:** A
--   **Language(s):** Python
--   **Source Code Repository:** [CSCI-301-code-repository/finalProject](https://github.com/Gabriel-TiradoRobles/CSCI-301-code-repository/tree/main/finalProject)  
+-   **Language(s):** Java
+-   **Source Code Repository:** [CSCI-325-final-project](https://github.com/Gabriel-TiradoRobles/CSCI-325-final-project)  
     (Please [email me](mailto:gjtiradorobles@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-When the program is launched through the command prompt, it will go through the html of the website that it is currently targetting. The specific details that the program will search for are job titles, the company responsible for the job posting, a link that leads you to more information about the given job and its application page, and any special tags that the job posting has (e.g., Full-time, High-paying). Once all of this information has been scraped from the website, the program will proceed to output all the information onto the command line or to a file of a given name if specified.
+The program simulates a system to manage a store's inventory, tracking any shipments, and generating various reports about the store. For the part that manages the store's inventory, the user has the ability to load an inventory through a formatted text file, create inventory items through the program, and edit data on individual items. The user also has the ability to look through and view the entire store's inventory and save the inventory onto a text file.
+
+For tracking shipments and generating reports, when the user attempt to view the shipment list, the program will load all shipments from a predetermined text file. Afterwards the user can look through any shipments and delete any shipment they wish to remove as well. For generating reports, the user has a choice between generating a sales report, shipment report, or an inventory report.
 
 ## How to compile and run the program
 
