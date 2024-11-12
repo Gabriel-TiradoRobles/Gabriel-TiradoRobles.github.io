@@ -9,7 +9,7 @@ Job Web Scraper
 -   **Source Code Repository:** [CSCI-325-final-project](https://github.com/Gabriel-TiradoRobles/CSCI-325-final-project)  
     (Please [email me](mailto:gjtiradorobles@csustudent.net?subject=GitHub%20Access) to request access.)
 
-## Project description
+## 1. Project description
 
 The program simulates a system to manage a store's inventory, tracking any shipments, and generating various reports about the store. For the part that manages the store's inventory, the user has the ability to load an inventory through a formatted text file, create inventory items through the program, and edit data on individual items. The user also has the ability to look through and view the entire store's inventory and save the inventory onto a text file.
 
@@ -25,12 +25,12 @@ cd ./InventoryManagmentSystem/dist
 java -jar "InventoryManagmentSystem.jar"
 ```
 
-## UI Design
+## 2. UI Design
 
 When the program is run, the user will begin in the main menu of the program (see Fig 1) and will be given the options to view or modify inventory, track shipments, generate reports, or quit the program. The various sections below will guide through the rest of the programs pages.
 
-**Fig 1. Example output to command line after website was successfully scraped.**
-![screenshot](images/CSCI301/outputCLIWebScraper.png)  
+**Fig 1. Program Main Menu.**
+![screenshot](images/CSCI325/325MainMenu.png)  
 
 ### View Inventory
 
