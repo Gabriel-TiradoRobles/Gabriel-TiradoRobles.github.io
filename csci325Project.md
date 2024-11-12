@@ -17,33 +17,37 @@ For tracking shipments and generating reports, when the user attempt to view the
 
 ## How to compile and run the program
 
-How to run the program.
+Program is already compiled in the dist folder of the project. Once you enter the dist folder, insert the following command past the **cd** command
 
 ```bash
-cd ./finalProject
+cd ./InventoryManagmentSystem/dist
 
-pip install requests
-pip install beautifulsoup4
-python webscrappingProject.py >> output.txt
+java -jar "InventoryManagmentSystem.jar"
 ```
 
 ## UI Design
 
-When the program is run without specifying an output file, the program will simply print the output to the command line (see Fig 1), when an output file is specified, the program will write down all output into the file (see Fig 2). If either there were no jobs found by the web scraper or the website given was invalid, the program will output stating that no jobs were found (see Fig 3).
+When the program is run, the user will begin in the main menu of the program (see Fig 1) and will be given the options to view or modify inventory, track shipments, generate reports, or quit the program. The various sections below will guide through the rest of the programs pages.
 
 **Fig 1. Example output to command line after website was successfully scraped.**
 ![screenshot](images/CSCI301/outputCLIWebScraper.png)  
 
-
-**Fig 2. Example output to a file after website was successfully scraped.**
-![screenshot](images/CSCI301/outputFileWebScraper.png)  
+### View Inventory
 
 
-**Fig 3. Feedback when no job results were found.**
-![screenshot](images/CSCI301/errorWebScraper.png)  
+### Modify Inventory
+
+
+### Track Shipment(s)
+
+
+### Generate Report(s)
+
 
 ## 3. Additional Considerations
 
-The two libraries listed in the **How to Compile** section must be installed before running the python script. To output to a file, you must add **>> fileName.txt** following the script name.
+The program was built on java version 21.0.3. The program will not run if you attempt to open the .jar file via file explorer; it must be ran using the command in the **How to compile and run the program** section. The README.txt file in the /dist directory will give more information on running the program.
+
+This program was a group project with the three people responsible being Andrew Taylor, Evan Hughes, and myself. The parts of the project that had been programed by me were the view and modify inventory sections with some assistance on saving to a file.
 
 [Back to Portfolio](./)
