@@ -12,7 +12,7 @@ Programming Projects
 ![Job Web Scraper Thumbnail](images/CSCI301/outputCLIWebScraper.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Project 2 Title | CSCI 315](csci315Project.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 332](csci332Project.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
