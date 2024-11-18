@@ -34,16 +34,32 @@ When the program is run, the user will begin in the main menu of the program (se
 ![screenshot](images/CSCI325/325MainMenu.png)  
 
 ### View Inventory
+![screenshot](images/CSCI325/325ViewInv.png) 
 
+![screenshot](images/CSCI325/325SpecificItem.png) 
 
 ### Modify Inventory
+![screenshot](images/CSCI325/325ModInvMain.png) 
 
+![screenshot](images/CSCI325/325InvModLoaded.png) 
+
+![screenshot](images/CSCI325/325LoadInvMen.png) 
+
+![screenshot](images/CSCI325/325ModInvSpecific.png) 
 
 ### Track Shipment(s)
+![screenshot](images/CSCI325/325ShipmentMenu.png) 
 
+![screenshot](images/CSCI325/325SelectedShipment.png) 
 
 ### Generate Report(s)
+![screenshot](images/CSCI325/325GenRepMenu.png) 
 
+![screenshot](images/CSCI325/325SalesRep.png) 
+
+![screenshot](images/CSCI325/325InvRep.png) 
+
+![screenshot](images/CSCI325/325ShipRep.png) 
 
 ## 3. Additional Considerations
 
