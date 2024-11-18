@@ -27,13 +27,15 @@ java -jar "InventoryManagmentSystem.jar"
 
 ## 2. UI Design
 
-When the program is run, the user will begin in the main menu of the program (see Fig 1) and will be given the options to view or modify inventory, track shipments, generate reports, or quit the program. The various sections below will guide through the rest of the programs pages.
+When the program is run, the user will begin in the main menu of the program **(see Fig 1)** and will be given the options to view or modify inventory, track shipments, generate reports, or quit the program. The various sections below will guide through the rest of the programs pages.
 
 **Fig 1. Program Main Menu.**
 
 ![screenshot](images/CSCI325/325MainMenu.png)  
 
 ### View Inventory
+The view inventory portion of the program allows the user to look through and select specific items based on their SKU number **(see Fig 2)** from a loaded inventory. When a SKU number is entered to look at a specific item, all relevant information about that item is displayed **(see Fig 3)**.
+
 **Fig 2. View Inventory Menu**
 
 ![screenshot](images/CSCI325/325ViewInv.png) 
@@ -43,6 +45,7 @@ When the program is run, the user will begin in the main menu of the program (se
 ![screenshot](images/CSCI325/325SpecificItem.png) 
 
 ### Modify Inventory
+The modify inventory portion of the program allows the user to load an inventory from a file, create items from scratch, or modify specific items. Some options will not initially show **(see Fig 4)** until either inventory items are added or a file has been loaded in **(see Fig 5)**. When loading the inventory from a file, the program will list out any files that it has found stored in its InventoryFiles directory to be selected to load **(see Fig 6)**. For modifying a specific item, the user will navigate through the menu similar to viewing the inventory and select the SKU number of the item they wish to modify **(see Fig 7)**. Upon viewing a specific item to modify, the user may either modify any specific attribute of the item or choose to remove the item **(see Fig 8)**.
 
 **Fig 4. Modify Inventory Main Menu**
 
@@ -56,35 +59,41 @@ When the program is run, the user will begin in the main menu of the program (se
 
 ![screenshot](images/CSCI325/325LoadInvMen.png) 
 
-**Fig 7. Modify Specific Item**
+**Fig 7. View Inventory Menu (Modify)**
+
+![screenshot](images/CSCI325/325ViewInv.png) 
+
+**Fig 8. Modify Specific Item**
 
 ![screenshot](images/CSCI325/325ModInvSpecific.png) 
 
 ### Track Shipment(s)
+The track shipments portion of the program allows the user to view any shipments that are relevant for the store that the program is hosted by.
 
-**Fig 8. Track Shipment Main Menu**
+**Fig 9. Track Shipment Main Menu**
 
 ![screenshot](images/CSCI325/325ShipmentMenu.png) 
 
-**Fig 9. View Specific Shipment**
+**Fig 10. View Specific Shipment**
 
 ![screenshot](images/CSCI325/325SelectedShipment.png) 
 
 ### Generate Report(s)
+The generate reports portion of the program allows the user to generate one of three reports.
 
-**Fig 10. Generate Report Main Menu**
+**Fig 11. Generate Report Main Menu**
 
 ![screenshot](images/CSCI325/325GenRepMenu.png) 
 
-**Fig 11. Generate Sales Report**
+**Fig 12. Generate Sales Report**
 
 ![screenshot](images/CSCI325/325SalesRep.png) 
 
-**Fig 12. Generate Inventory Report**
+**Fig 13. Generate Inventory Report**
 
 ![screenshot](images/CSCI325/325InvRep.png) 
 
-**Fig 13. Generate Shipment Report**
+**Fig 14. Generate Shipment Report**
 
 ![screenshot](images/CSCI325/325ShipRep.png) 
 
