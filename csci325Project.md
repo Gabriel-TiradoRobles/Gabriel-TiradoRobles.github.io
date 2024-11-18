@@ -34,30 +34,57 @@ When the program is run, the user will begin in the main menu of the program (se
 ![screenshot](images/CSCI325/325MainMenu.png)  
 
 ### View Inventory
+**Fig 2. View Inventory Menu**
+
 ![screenshot](images/CSCI325/325ViewInv.png) 
+
+**Fig 3. View Specific Item**
 
 ![screenshot](images/CSCI325/325SpecificItem.png) 
 
 ### Modify Inventory
+
+**Fig 4. Modify Inventory Main Menu**
+
 ![screenshot](images/CSCI325/325ModInvMain.png) 
+
+**Fig 5. Modify Inventory Main Menu (File Loaded)**
 
 ![screenshot](images/CSCI325/325InvModLoaded.png) 
 
+**Fig 6. Load Inventory From File**
+
 ![screenshot](images/CSCI325/325LoadInvMen.png) 
+
+**Fig 7. Modify Specific Item**
 
 ![screenshot](images/CSCI325/325ModInvSpecific.png) 
 
 ### Track Shipment(s)
+
+**Fig 8. Track Shipment Main Menu**
+
 ![screenshot](images/CSCI325/325ShipmentMenu.png) 
+
+**Fig 9. View Specific Shipment**
 
 ![screenshot](images/CSCI325/325SelectedShipment.png) 
 
 ### Generate Report(s)
+
+**Fig 10. Generate Report Main Menu**
+
 ![screenshot](images/CSCI325/325GenRepMenu.png) 
+
+**Fig 11. Generate Sales Report**
 
 ![screenshot](images/CSCI325/325SalesRep.png) 
 
+**Fig 12. Generate Inventory Report**
+
 ![screenshot](images/CSCI325/325InvRep.png) 
+
+**Fig 13. Generate Shipment Report**
 
 ![screenshot](images/CSCI325/325ShipRep.png) 
 
