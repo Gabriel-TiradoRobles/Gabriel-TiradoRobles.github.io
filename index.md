@@ -12,17 +12,17 @@ Programming Projects
 ![Job Web Scraper Thumbnail](images/CSCI301/outputCLIWebScraper.png)
 
 ---
-### [Project 2 Title | CSCI 315](csci315Project.md)
+### [Project 2 Title (TBD) | CSCI 315](csci315Project.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 ### [Inventory Management Project | CSCI 325](csci325Project.md)
 
-![Project 3 Thumbnail Name](images/CSCI325/325Thumbnail.png)
+![Inventory Management Thumbnail](images/CSCI325/325Thumbnail.png)
 
 ---
-### [Project 4 Title | CSCI 332](csci332Project.md)
+### [Project 4 Title (TBD) | CSCI 332](csci332Project.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
