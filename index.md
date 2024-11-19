@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Inventory Management Project | CSCI 325](csci325Project.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/CSCI325/325Thumbnail.png)
 
 ---
 ### [Project 4 Title | CSCI 332](csci332Project.md)
