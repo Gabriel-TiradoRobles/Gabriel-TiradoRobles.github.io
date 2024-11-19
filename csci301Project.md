@@ -15,11 +15,9 @@ When the program is launched through the command prompt, it will go through the 
 
 ## How to compile and run the program
 
-How to run the program.
+The following commands must be run in sequence in the same folder where the program is located:
 
 ```bash
-cd ./finalProject
-
 pip install requests
 pip install beautifulsoup4
 python webscrappingProject.py >> output.txt
