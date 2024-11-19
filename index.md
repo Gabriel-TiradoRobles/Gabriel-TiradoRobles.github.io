@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/Gabriel_Tirado_IST166_Final_Project.pdf)
+### [IST-166 Final Project Presentation](/pdf/Gabriel_Tirado_IST166_Final_Project.pdf)
 
 - **Class:** IST-166
 - **Grade:** B
 
 
-### [Presentation 2 Title](/pdf/Gabriel_Tirado_Paging_Presentation_CSCI325.pdf)
+### [Intel 64-bit Architecture Paging Presentation](/pdf/Gabriel_Tirado_Paging_Presentation_CSCI325.pdf)
 
 - **Class:** CSCI-325
 - **Grade:** TBD
