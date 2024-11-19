@@ -6,7 +6,7 @@ Job Web Scraper
 -   **Class:** CSCI-301
 -   **Grade:** A
 -   **Language(s):** Python
--   **Source Code Repository:** [CSCI-301-code-repository/finalProject](https://github.com/Gabriel-TiradoRobles/CSCI-301-code-repository/tree/main/finalProject)  
+-   **Source Code Repository:** [CSCI-301-code-repository](https://github.com/Gabriel-TiradoRobles/CSCI-301-code-repository/)  
     (Please [email me](mailto:gjtiradorobles@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
