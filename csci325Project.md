@@ -45,23 +45,31 @@ The view inventory portion of the program allows the user to look through and se
 ![screenshot](images/CSCI325/325SpecificItem.png) 
 
 ### Modify Inventory
-The modify inventory portion of the program allows the user to load an inventory from a file, create items from scratch, or modify specific items. Some options will not initially show **(see Fig 4)** until either inventory items are added or a file has been loaded in **(see Fig 5)**. When loading the inventory from a file, the program will list out any files that it has found stored in its InventoryFiles directory to be selected to load **(see Fig 6)**. For modifying a specific item, the user will navigate through the menu similar to viewing the inventory and select the SKU number of the item they wish to modify **(see Fig 7)**. Upon viewing a specific item to modify, the user may either modify any specific attribute of the item or choose to remove the item **(see Fig 8)**.
+The modify inventory portion of the program allows the user to load an inventory from a file, create items from scratch, or modify specific items.
 
 **Fig 4. Modify Inventory Main Menu**
 
 ![screenshot](images/CSCI325/325ModInvMain.png) 
 
+Some options will not initially show **(see Fig 4)** until either inventory items are added or a file has been loaded in **(see Fig 5)**.
+
 **Fig 5. Modify Inventory Main Menu (File Loaded)**
 
 ![screenshot](images/CSCI325/325InvModLoaded.png) 
+
+When loading the inventory from a file, the program will list out any files that it has found stored in its InventoryFiles directory to be selected to load **(see Fig 6)**.
 
 **Fig 6. Load Inventory From File**
 
 ![screenshot](images/CSCI325/325LoadInvMen.png) 
 
+For modifying a specific item, the user will navigate through the menu similar to viewing the inventory and select the SKU number of the item they wish to modify **(see Fig 7)**.
+
 **Fig 7. View Inventory Menu (Modify)**
 
 ![screenshot](images/CSCI325/325ViewInv.png) 
+
+Upon viewing a specific item to modify, the user may either modify any specific attribute of the item or choose to remove the item **(see Fig 8)**.
 
 **Fig 8. Modify Specific Item**
 
