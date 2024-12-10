@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Job Web Scraper
+Inventory Management System
 ===============
 
 -   **Class:** CSCI-325
