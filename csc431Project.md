@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Job Web Scraper
+Scheduling Algorithms
 ===============
 
--   **Class:** CSCI-325
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI-431
+-   **Grade:** TBD
+-   **Language(s):** C
 -   **Source Code Repository:**  
     (Please [email me](mailto:gjtiradorobles@csustudent.net?subject=GitHub%20Access) to request access.)
 
