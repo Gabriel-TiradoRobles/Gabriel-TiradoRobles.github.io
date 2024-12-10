@@ -12,7 +12,7 @@ Programming Projects
 ![Job Web Scraper Thumbnail](images/CSCI301/outputCLIWebScraper.png)
 
 ---
-### [Project 2 Title (TBD) | CSCI 315](csci315Project.md)
+### [Scheduling Algorithms | CSCI 431](csci431Project.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -22,7 +22,7 @@ Programming Projects
 ![Inventory Management Thumbnail](images/CSCI325/325Thumbnail.png)
 
 ---
-### [Project 4 Title (TBD) | CSCI 332](csci332Project.md)
+### [Chatroom and Automated Response Projects | CSCI 332](csci332Project.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
