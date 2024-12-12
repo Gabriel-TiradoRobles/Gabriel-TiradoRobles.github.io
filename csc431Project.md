@@ -6,7 +6,7 @@ Scheduling Algorithms
 -   **Class:** CSCI-431
 -   **Grade:** TBD
 -   **Language(s):** C
--   **Source Code Repository:**  
+-   **Source Code Repository:**  https://github.com/Gabriel-TiradoRobles/CSCI-431-Final-Project
     (Please [email me](mailto:gjtiradorobles@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
