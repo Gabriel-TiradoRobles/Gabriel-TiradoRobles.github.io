@@ -32,19 +32,36 @@ make priority_rr
 
 For running the compiled programs, run the following commands in the same directory the files were compiled for the coresponding algorithm.
 ```bash
-./schedule_fcfs.o
-./schedule_sjf.o
-./schedule_priority.o
-./schedule_rr.o
-./schedule_priority_rr.o
+./schedule_fcfs.o [FILENAME.txt]
+./schedule_sjf.o [FILENAME.txt]
+./schedule_priority.o [FILENAME.txt]
+./schedule_rr.o [FILENAME.txt]
+./schedule_priority_rr.o [FILENAME.txt]
 ```
 
 ## UI Design
 
-When the project for CSCI-315 has been completed, this page will be filled out. Currently the class is in progress
+When any of the above commands are run, the terminal will output the order the dummy processes based on the scheduling algorithm that was run. Certain scheduling algorithms like priority and shortest job first will default back to first come first served if all processes match priority or job length.
 
-**Fig 1. Placeholder until the project has been completed.**
-![screenshot](images/dummy_thumbnail.jpg)  
+**Fig 1. First Come First Served scheduling output.**
+
+![FCFS_Scheduling](images/CSCI431/CSCI431_FCFS.png)  
+
+**Fig 2. Shortest Job First scheduling output.**
+
+![screenshot](images/CSCI431/CSCI431_SJF.png)  
+
+**Fig 3. Priority scheduling output.**
+
+![screenshot](images/CSCI431/CSCI431_PRIO.png)  
+
+**Fig 4. Round Robin scheduling output.**
+
+![screenshot](images/CSCI431/CSCI431_RR.png)  
+
+**Fig 5. Priority Round Robin scheduling output.**
+
+![screenshot](images/CSCI431/CSCI431_PRIORR.png)  
 
 
 ## 3. Additional Considerations
