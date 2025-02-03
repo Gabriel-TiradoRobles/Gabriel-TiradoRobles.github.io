@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Scheduling Algorithms | CSCI 431](csci431Project.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/CSCI431/CSCI431_PRIO.png)
 
 ---
 ### [Inventory Management Project | CSCI 325](csci325Project.md)
