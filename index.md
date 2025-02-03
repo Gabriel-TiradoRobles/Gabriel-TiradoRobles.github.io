@@ -21,12 +21,12 @@ Programming Projects
 
 ![Inventory Management Thumbnail](images/CSCI325/325Thumbnail.png)
 
----
+<!---
 ### [Chatroom and Automated Response Projects | CSCI 332](csci332Project.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
----
+--->
 
 Ethics Papers
 -------------
@@ -60,7 +60,7 @@ Presentations
 ### [Intel 64-bit Architecture Paging Presentation](/pdf/Gabriel_Tirado_Paging_Presentation_CSCI325.pdf)
 
 - **Class:** CSCI-325
-- **Grade:** TBD
+- **Grade:** A
 
 ---
 
